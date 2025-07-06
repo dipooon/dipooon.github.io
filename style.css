@@ -34,13 +34,6 @@
     text-align: center;
   }
 }
-body {
-  font-family: sans-serif;
-  background-image: url("z portfolio bg.jpg");
-  background-size: cover;
-  color: #333;
-  padding: 2rem;
-}
 
 .container {
   max-width: 1200px;
